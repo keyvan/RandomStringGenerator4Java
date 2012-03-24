@@ -16,6 +16,6 @@ public class Tester {
 		generator.MinSpecialChars = 1;
 		generator.FillRest = CharType.NUMERIC;
 
-		System.out.println(generator.generateString(9));
+		System.out.println("Random String: " + generator.generateString(9));
 	}
 }

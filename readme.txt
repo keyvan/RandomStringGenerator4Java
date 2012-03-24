@@ -10,3 +10,5 @@ customizable settings to set the number of upper, lower, numeric,
 and special characters along with the length of the string.
 This library can be used for various applications such as random 
 password generation.
+
+http://keyvan.io/random-string-generator-for-java
